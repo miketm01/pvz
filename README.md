@@ -1,5 +1,3 @@
 # pvz
-Plants vs Zombies
-Kecske
-MIKI Buzi
-Aki kitröli hogy Mimi buzi az buzibb mint Miki
+It is simple plants vs zombies game for a competition at Academy+plus
+
